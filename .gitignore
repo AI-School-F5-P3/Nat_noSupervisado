@@ -2,3 +2,4 @@ newenv/
 
 env/
 myenv/
+.venv
