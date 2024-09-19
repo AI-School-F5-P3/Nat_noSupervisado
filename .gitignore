@@ -3,3 +3,7 @@ newenv/
 env/
 myenv/
 .venv
+
+.csv
+csv
+__pycache__
